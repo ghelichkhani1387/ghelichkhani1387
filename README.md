@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghelichkhani1387
+- 👋 Hi, I’m Parsa
 - 👀 I’m interested in hacking,AI and web
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
